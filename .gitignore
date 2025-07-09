@@ -10,3 +10,5 @@ dist/
 *.egg-info/
 http_server_pro.egg-info/
 __version__.py
+dump*.xml
+screenshot*.png

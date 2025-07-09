@@ -37,7 +37,10 @@ setup(
     entry_points={
         'console_scripts': [
             f'{module_name}={module_name}.main:main',
-            # f"{module_name} = {module_name}.viewer:start_ui_inspector"
+            f'android_inspector={module_name}.main:main',
+            f'uif={module_name}.main:main',
+            f'adr={module_name}.main:main',
+
         ],
     },
     classifiers=[

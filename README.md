@@ -44,6 +44,7 @@
 2. **In Windows**
    ```
    pip install ui_finder
+   In cmd or powershell just type either ui_finder or android_inspector or uif or adr
    ui_finder
 
 3. **In Linux/MacOS**
