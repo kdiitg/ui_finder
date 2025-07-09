@@ -1,0 +1,6 @@
+# This file is used to specify the dependencies for the project.
+
+matplotlib>=3.5,<4.0
+pyperclip>=1.8,<2.0
+Pillow>=9.0,<12.0
+
